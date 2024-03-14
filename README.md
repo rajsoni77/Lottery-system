@@ -1,1 +1,1 @@
-# Lottery-system
+# Mini_Voting-system
